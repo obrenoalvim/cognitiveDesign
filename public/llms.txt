@@ -1,0 +1,33 @@
+# Cognitive Design
+
+> Aprenda a aplicar vieses cognitivos no design de interfaces UX/UI.
+
+## O que é este site
+
+Cognitive Design é uma plataforma educacional que demonstra como princípios da psicologia cognitiva podem ser aplicados no design de interfaces digitais. Cada exemplo inclui uma demonstração visual interativa, explicação do efeito psicológico e código HTML/CSS copiável.
+
+## Vieses cognitivos cobertos
+
+- **Efeito Chamariz (Decoy Effect)**: adicionar uma opção intermediária mal posicionada para tornar outra opção mais atraente
+- **Ancoragem (Anchoring)**: a primeira informação influencia a percepção de valor de informações subsequentes
+- **Prova Social (Social Proof)**: as pessoas tendem a seguir comportamentos validados por outros — avaliações, contadores e rótulos "Mais vendido"
+- **Escassez (Scarcity)**: limitações de tempo ou quantidade aumentam percepção de valor e urgência
+- **Efeito Halo**: uma característica positiva se estende para a percepção do todo
+- **Viés de Confirmação**: tendência de buscar informações que confirmem crenças prévias
+
+## Por que vieses cognitivos importam no design
+
+Aplicar vieses cognitivos corretamente pode aumentar taxas de conversão em 30-40%, reduzir a carga cognitiva do usuário e criar interfaces mais intuitivas e persuasivas.
+
+## Público-alvo
+
+- Designers UX/UI
+- Desenvolvedores front-end
+- Product managers
+- Estudantes de design e psicologia
+
+## Links
+
+- Site: https://cognitive-design.vercel.app
+- Galeria de designs: https://cognitive-design.vercel.app/designs
+- Código-fonte: https://github.com/obrenoalvim/cognitiveDesign
