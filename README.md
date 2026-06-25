@@ -1,5 +1,7 @@
 # Cognitive Design
 
+[![CI](https://github.com/obrenoalvim/cognitiveDesign/actions/workflows/ci.yml/badge.svg)](https://github.com/obrenoalvim/cognitiveDesign/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Site que explora e demonstra conceitos de design cognitivo aplicados à interface e experiência do usuário. Apresenta padrões, componentes e interações que reduzem a carga mental e promovem decisões mais rápidas, unindo princípios de psicologia cognitiva a um design de UI/UX moderno.
 
 ## Stack
